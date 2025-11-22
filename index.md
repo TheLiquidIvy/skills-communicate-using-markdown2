@@ -10,4 +10,5 @@
 
 ###### This is an `<h6>` header
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of a Cyberpunk Spiderweb](https://i.ibb.co/q391gvkv/Pixel-Plaque-Logo-Official.png)
+
