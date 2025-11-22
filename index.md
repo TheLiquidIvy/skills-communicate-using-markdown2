@@ -12,3 +12,4 @@
 
 ![Image of a Cyberpunk Spiderweb](https://i.ibb.co/q391gvkv/Pixel-Plaque-Logo-Official.png)
 
+var myVar = "Hello, world!";
