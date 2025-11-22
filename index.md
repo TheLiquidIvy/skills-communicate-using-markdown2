@@ -12,4 +12,10 @@
 
 ![Image of a Cyberpunk Spiderweb](https://i.ibb.co/q391gvkv/Pixel-Plaque-Logo-Official.png)
 
-``` javascript var myVar = "Hello, world!"; ```
+``` javascript 
+var myVar = "Hello, world!";
+```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
